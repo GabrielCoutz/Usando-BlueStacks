@@ -7,6 +7,10 @@ Estou aprendendo a programar, então fiz esse código para ajudar a resolver o p
 
 <h1>Como Utilizar?</h1>
  
+ 
+**AVISO: É necessário que vc tenha o BlueStacks instalado, caso não tenha, instale-o antes de seguir os passos abaixo.**
+
+
 1. Entre **[aqui](https://github.com/GabrielCoutz/Usando-BlueStacks)** e clique em **code** e depois em **Download ZIP**
 
 ![download](Imagens/download.PNG)
